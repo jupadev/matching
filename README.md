@@ -9,7 +9,7 @@ To use this, you need to have the latest version of Node.js and NPM installed.
 
 ```
 git clone https://github.com/jupadev/matching.git
-cd jupadev-matching
+cd matching
 npm install
 npm start
 ```
