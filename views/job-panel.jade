@@ -1,0 +1,31 @@
+.col-xs-12.col-sm-6
+	.panel.panel-primary
+		.panel-heading
+			h3 Jobs
+		.panel-body
+			table.table
+				theader
+					tr
+						th Job name
+						th skills
+				tbody
+					for job in jobs
+						tr
+							td #{job.name}
+							td 
+								if job.items.length
+									ul
+										each skill in job.items
+											li #{skill.name}
+								else
+									span.glyphicon.glyphicon-warning-sign  None
+			hr
+			form(action='/jobs' method='post').row
+				.form-group.col-sm-12
+					input.form-control(name='job' placeholder='add new job' required)
+				.form-group.col-sm-12
+					select.form-control.js-skillsets(name='skillsets' multiple='true')
+						for skill in skillsets
+							option(value='{\"_id\": \"#{skill._id}\", \"name\": \"#{skill.name}\" }') #{skill.name}
+				.col-sm-12
+					button.btn.btn-primary.pull-right Add job

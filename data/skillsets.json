@@ -1,0 +1,861 @@
+[
+    {
+        "_id": "570fb08fbadb53d005784927",
+        "active": true,
+        "name": "Ability to work under pressure"
+    },
+    {
+        "_id": "570fb08fbadb53d005784928",
+        "active": true, 
+        "name": "Accuracy"
+    },
+    {
+        "_id": "570fb08fbadb53d005784929",
+        "active": true,
+        "name": "Adaptability"
+    },
+    {
+        "_id": "570fb08fbadb53d00578492a",
+        "active": true,
+        "name": "Administering medication"
+    },
+    {
+        "_id": "570fb08fbadb53d00578492b",
+        "active": true,
+        "name": "Advising people"
+    },
+    {
+        "_id": "570fb08fbadb53d00578492c",
+        "active": true,
+        "name": "Analyzing data"
+    },
+    {
+        "_id": "570fb08fbadb53d00578492d",
+        "active": true,
+        "name": "Analyzing problems"
+    },
+    {
+        "_id": "570fb08fbadb53d00578492e",
+        "active": true,
+        "name": "Assembling equipment"
+    },
+    {
+        "_id": "55d27b59ffea189411941298",
+        "active": true,
+        "name": "Attention to details"
+    },
+    {
+        "_id": "55d27b59ffea189411941276",
+        "active": true,
+        "name": "Auditing financial data"
+    },
+    {
+        "_id": "55d27b59ffea189411941299",
+        "active": true,
+        "name": "Analytical skills"
+    },
+    {
+        "_id": "570fb08fbadb53d005784933",
+        "active": true,
+        "name": "Being thorough"
+    },
+    {
+        "_id": "570fb08fbadb53d005784934",
+        "active": true,
+        "name": "Brainstorming"
+    },
+    {
+        "_id": "570fb08fbadb53d005784935",
+        "active": true, 
+        "name": "Budgeting"
+    },
+    {
+        "_id": "570fb08fbadb53d005784936",
+        "active": true,
+        "name": "Building new business"
+    },
+    {
+        "_id": "570fb08fbadb53d005784937",
+        "active": true,
+        "name": "Business communication skills"
+    },
+    {
+        "_id": "570fb08fbadb53d005784938",
+        "active": true,
+        "name": "Business management skills"
+    },
+    {
+        "_id": "570fb08fbadb53d005784939",
+        "active": true,
+        "name": "Calculating data"
+    },
+    {
+        "_id": "570fb08fbadb53d00578493a",
+        "active": true,
+        "name": "Categorizing records"
+    },
+    {
+        "_id": "55d27b59ffea18941194129a",
+        "active": true,
+        "name": "Checking for accuracy"
+    },
+    {
+        "_id": "570fb08fbadb53d00578493c",
+        "active": true,
+        "name": "Coaching skills"
+    },
+    {
+        "_id": "570fb08fbadb53d00578493d",
+        "active": true,
+        "name": "Collaborating ideas"
+    },
+    {
+        "_id": "570fb08fbadb53d00578493e",
+        "active": true,
+        "name": "Collecting items"
+    },
+    {
+        "_id": "570fb08fbadb53d00578493f",
+        "active": true,
+        "name": "Communicating with young or old people"
+    },
+    {
+        "_id": "570fb08fbadb53d005784940",
+        "active": true,
+        "name": "Comparing results"
+    },
+    {
+        "_id": "570fb08fbadb53d005784941",
+        "active": true,
+        "name": "Comprehending books or ideas"
+    },
+    {
+        "_id": "570fb08fbadb53d005784942",
+        "active": true,
+        "name": "Conducting interviews"
+    },
+    {
+        "_id": "570fb08fbadb53d005784943",
+        "active": true,
+        "name": "Conflict resolution"
+    },
+    {
+        "_id": "570fb08fbadb53d005784944",
+        "active": true,
+        "name": "Confronting other people"
+    },
+    {
+        "_id": "570fb08fbadb53d005784945",
+        "active": true,
+        "name": "Constructing buildings"
+    },
+    {
+        "_id": "570fb08fbadb53d005784946",
+        "active": true,
+        "name": "Consulting organizations"
+    },
+    {
+        "_id": "570fb08fbadb53d005784947",
+        "active": true,
+        "name": "Counseling people"
+    },
+    {
+        "_id": "570fb08fbadb53d005784948",
+        "active": true,
+        "name": "Creative thinking skills"
+    },
+    {
+        "_id": "570fb08fbadb53d005784949",
+        "active": true,
+        "name": "Creating meaningful work"
+    },
+    {
+        "_id": "570fb08fbadb53d00578494a",
+        "active": true,
+        "name": "Critical thinking skills"
+    },
+    {
+        "_id": "570fb08fbadb53d00578494b",
+        "active": true,
+        "name": "Customer service skills"
+    },
+    {
+        "_id": "570fb08fbadb53d00578494c",
+        "active": true,
+        "name": "Dealing with complaints"
+    },
+    {
+        "_id": "570fb08fbadb53d00578494d",
+        "active": true,
+        "name": "Decision making skills"
+    },
+    {
+        "_id": "570fb08fbadb53d00578494e",
+        "active": true,
+        "name": "Defining problems"
+    },
+    {
+        "_id": "570fb08fbadb53d00578494f",
+        "active": true,
+        "name": "Delegating skills"
+    },
+    {
+        "_id": "570fb08fbadb53d005784950",
+        "active": true,
+        "name": "Designing systems"
+    },
+    {
+        "_id": "570fb08fbadb53d005784951",
+        "active": true,
+        "name": "Determination"
+    },
+    {
+        "_id": "570fb08fbadb53d005784952",
+        "active": true,
+        "name": "Developing plans for projects"
+    },
+    {
+        "_id": "570fb08fbadb53d005784953",
+        "active": true,
+        "name": "Diplomacy skills"
+    },
+    {
+        "_id": "570fb08fbadb53d005784954",
+        "active": true,
+        "name": "Displaying art"
+    },
+    {
+        "_id": "570fb08fbadb53d005784955",
+        "active": true,
+        "name": "Distributing products"
+    },
+    {
+        "_id": "570fb08fbadb53d005784956",
+        "active": true,
+        "name": "Dramatizing ideas"
+    },
+    {
+        "_id": "570fb08fbadb53d005784957",
+        "active": true,
+        "name": "Driving safely"
+    },
+    {
+        "_id": "570fb08fbadb53d005784958",
+        "active": true, 
+        "name": "Editing"
+    },
+    {
+        "_id": "570fb08fbadb53d005784959",
+        "active": true,
+        "name": "Effective listening skills"
+    },
+    {
+        "_id": "570fb08fbadb53d00578495a",
+        "active": true,
+        "name": "Effective study skills"
+    },
+    {
+        "_id": "570fb08fbadb53d00578495b",
+        "active": true,
+        "name": "Encouraging people"
+    },
+    {
+        "_id": "570fb08fbadb53d00578495c",
+        "active": true,
+        "name": "Enforcing rules"
+    },
+    {
+        "_id": "570fb08fbadb53d00578495d",
+        "active": true,
+        "name": "Entertaining others"
+    },
+    {
+        "_id": "570fb08fbadb53d00578495e",
+        "active": true,
+        "name": "Envisioning solutions or ideas"
+    },
+    {
+        "_id": "570fb08fbadb53d00578495f",
+        "active": true,
+        "name": "Estimating project workload"
+    },
+    {
+        "_id": "570fb08fbadb53d005784960",
+        "active": true, 
+        "name": "Ethics"
+    },
+    {
+        "_id": "570fb08fbadb53d005784961",
+        "active": true,
+        "name": "Evaluatingprograms"
+    },
+    {
+        "_id": "570fb08fbadb53d005784962",
+        "active": true,
+        "name": "Expressing feelings"
+    },
+    {
+        "_id": "570fb08fbadb53d005784963",
+        "active": true,
+        "name": "Expressing ideas"
+    },
+    {
+        "_id": "570fb08fbadb53d005784964",
+        "active": true,
+        "name": "Extracting information"
+    },
+    {
+        "_id": "570fb08fbadb53d005784965",
+        "active": true,
+        "name": "Finding missing information"
+    },
+    {
+        "_id": "570fb08fbadb53d005784966",
+        "active": true,
+        "name": "Following instructions"
+    },
+    {
+        "_id": "570fb08fbadb53d005784967",
+        "active": true,
+        "name": "Gathering information"
+    },
+    {
+        "_id": "570fb08fbadb53d005784968",
+        "active": true,
+        "name": "Generating accounts"
+    },
+    {
+        "_id": "570fb08fbadb53d005784969",
+        "active": true,
+        "name": "Goal setting"
+    },
+    {
+        "_id": "570fb08fbadb53d00578496a",
+        "active": true, 
+        "name": "Initiator"
+    },
+    {
+        "_id": "570fb08fbadb53d00578496b",
+        "active": true,
+        "name": "Handling money"
+    },
+    {
+        "_id": "570fb08fbadb53d00578496c",
+        "active": true,
+        "name": "Identifying problems"
+    },
+    {
+        "_id": "570fb08fbadb53d00578496d",
+        "active": true,
+        "name": "Imagining innovative solutions"
+    },
+    {
+        "_id": "570fb08fbadb53d00578496e",
+        "active": true,
+        "name": "Information management"
+    },
+    {
+        "_id": "570fb08fbadb53d00578496f",
+        "active": true,
+        "name": "Inspecting buildings"
+    },
+    {
+        "_id": "570fb08fbadb53d005784970",
+        "active": true,
+        "name": "Inspecting equipment"
+    },
+    {
+        "_id": "570fb08fbadb53d005784971",
+        "active": true,
+        "name": "Interacting with various people"
+    },
+    {
+        "_id": "570fb08fbadb53d005784972",
+        "active": true,
+        "name": "Interpersonal communication skills"
+    },
+    {
+        "_id": "570fb08fbadb53d005784973",
+        "active": true,
+        "name": "Interpreting languages"
+    },
+    {
+        "_id": "570fb08fbadb53d005784974",
+        "active": true,
+        "name": "Interviewing"
+    },
+    {
+        "_id": "570fb08fbadb53d005784975",
+        "active": true,
+        "name": "Inventing products/ideas"
+    },
+    {
+        "_id": "570fb08fbadb53d005784976",
+        "active": true,
+        "name": "Investigating solutions"
+    },
+    {
+        "_id": "570fb08fbadb53d005784977",
+        "active": true,
+        "name": "Knowledge of community"
+    },
+    {
+        "_id": "570fb08fbadb53d005784978",
+        "active": true,
+        "name": "Knowledge of concepts and principles"
+    },
+    {
+        "_id": "570fb08fbadb53d005784979",
+        "active": true,
+        "name": "Knowledge of government affairs"
+    },
+    {
+        "_id": "570fb08fbadb53d00578497a",
+        "active": true,
+        "name": "Leading teams"
+    },
+    {
+        "_id": "570fb08fbadb53d00578497b",
+        "active": true,
+        "name": "Listening to people"
+    },
+    {
+        "_id": "570fb08fbadb53d00578497c",
+        "active": true,
+        "name": "Maintain focus with interruptions"
+    },
+    {
+        "_id": "570fb08fbadb53d00578497d",
+        "active": true,
+        "name": "Maintaining a high level of production"
+    },
+    {
+        "_id": "570fb08fbadb53d00578497e",
+        "active": true,
+        "name": "Maintaining accurate records"
+    },
+    {
+        "_id": "570fb08fbadb53d00578497f",
+        "active": true,
+        "name": "Maintaining emotional control under stress"
+    },
+    {
+        "_id": "570fb08fbadb53d005784980",
+        "active": true,
+        "name": "Maintaining files"
+    },
+    {
+        "_id": "570fb08fbadb53d005784981",
+        "active": true,
+        "name": "Maintaining schedules or times"
+    },
+    {
+        "_id": "570fb08fbadb53d005784982",
+        "active": true,
+        "name": "Making important decisions"
+    },
+    {
+        "_id": "570fb08fbadb53d005784983",
+        "active": true,
+        "name": "Managing organizations"
+    },
+    {
+        "_id": "570fb08fbadb53d005784984",
+        "active": true,
+        "name": "Managing people"
+    },
+    {
+        "_id": "570fb08fbadb53d005784985",
+        "active": true,
+        "name": "Mediating between people"
+    },
+    {
+        "_id": "570fb08fbadb53d005784986",
+        "active": true,
+        "name": "Meeting deadlines"
+    },
+    {
+        "_id": "570fb08fbadb53d005784987",
+        "active": true,
+        "name": "Meeting new people"
+    },
+    {
+        "_id": "570fb08fbadb53d005784988",
+        "active": true,
+        "name": "Motivating others"
+    },
+    {
+        "_id": "570fb08fbadb53d005784989",
+        "active": true,
+        "name": "Multi-tasking"
+    },
+    {
+        "_id": "570fb08fbadb53d00578498a",
+        "active": true,
+        "name": "Navigating politics"
+    },
+    {
+        "_id": "570fb08fbadb53d00578498b",
+        "active": true,
+        "name": "Negotiating skills"
+    },
+    {   "_id": "570fb08fbadb53d00578498c",
+        "active": true,
+        "name": "Operating equipment"
+    },
+    {
+        "_id": "570fb08fbadb53d00578498d",
+        "active": true,
+        "name": "Organizing files"
+    },
+    {
+        "_id": "570fb08fbadb53d00578498e",
+        "active": true,
+        "name": "Organizing tasks"
+    },
+    {
+        "_id": "570fb08fbadb53d00578498f",
+        "active": true, 
+        "name": "Patience"
+    },
+    {
+        "_id": "570fb08fbadb53d005784990",
+        "active": true,
+        "name": "People management skills"
+    },
+    {
+        "_id": "570fb08fbadb53d005784991",
+        "active": true,
+        "name": "Performing clerical work"
+    },
+    {
+        "_id": "570fb08fbadb53d005784992",
+        "active": true,
+        "name": "Performing numerical analysis"
+    },
+    {
+        "_id": "570fb08fbadb53d005784993",
+        "active": true,
+        "name": "Persuading others"
+    },
+    {
+        "_id": "570fb08fbadb53d005784994",
+        "active": true,
+        "name": "Planning meetings"
+    },
+    {
+        "_id": "570fb08fbadb53d005784995",
+        "active": true,
+        "name": "Planning organizational needs"
+    },
+    {
+        "_id": "570fb08fbadb53d005784996",
+        "active": true,
+        "name": "Predicting future trends"
+    },
+    {
+        "_id": "570fb08fbadb53d005784997",
+        "active": true,
+        "name": "Preparing written communications"
+    },
+    {
+        "_id": "570fb08fbadb53d005784998",
+        "active": true,
+        "name": "Prioritization skills"
+    },
+    {
+        "_id": "570fb08fbadb53d005784999",
+        "active": true,
+        "name": "Problem analysis skills"
+    },
+    {
+        "_id": "570fb08fbadb53d00578499a",
+        "active": true,
+        "name": "Problem solving skills"
+    },
+    {
+        "_id": "570fb08fbadb53d00578499b",
+        "active": true,
+        "name": "Product promotion"
+    },
+    {
+        "_id": "570fb08fbadb53d00578499c",
+        "active": true,
+        "name": "Promoting events"
+    },
+    {
+        "_id": "570fb08fbadb53d00578499d",
+        "active": true,
+        "name": "Proposing ideas"
+    },
+    {
+        "_id": "570fb08fbadb53d00578499e",
+        "active": true,
+        "name": "Providing customer service"
+    },
+    {
+        "_id": "570fb08fbadb53d00578499f",
+        "active": true,
+        "name": "Providing discipline"
+    },
+    {
+        "_id": "570fb08fbadb53d0057849a0",
+        "active": true,
+        "name": "Public speaking"
+    },
+    {
+        "_id": "570fb08fbadb53d0057849a1",
+        "active": true,
+        "name": "Questioning others"
+    },
+    {
+        "_id": "570fb08fbadb53d0057849a2",
+        "active": true,
+        "name": "Quick learning skills"
+    },
+    {
+        "_id": "570fb08fbadb53d0057849a3",
+        "active": true,
+        "name": "Raising funds"
+    },
+    {
+        "_id": "570fb08fbadb53d0057849a4",
+        "active": true, 
+        "name": "Reading"
+    },
+    {
+        "_id": "570fb08fbadb53d0057849a5",
+        "active": true,
+        "name": "Recognizing problems"
+    },
+    {
+        "_id": "570fb08fbadb53d0057849a6",
+        "active": true,
+        "name": "Recruiting"
+    },
+    {
+        "_id": "570fb08fbadb53d0057849a7",
+        "active": true,
+        "name": "Rehabilitating people"
+    },
+    {
+        "_id": "570fb08fbadb53d0057849a8",
+        "active": true,
+        "name": "Relating to others"
+    },
+    {
+        "_id": "570fb08fbadb53d0057849a9",
+        "active": true,
+        "name": "Reliability"
+    },
+    {
+        "_id": "570fb08fbadb53d0057849aa",
+        "active": true,
+        "name": "Remembering information"
+    },
+    {
+        "_id": "570fb08fbadb53d0057849ab",
+        "active": true,
+        "name": "Repairing equipment"
+    },
+    {
+        "_id": "570fb08fbadb53d0057849ac",
+        "active": true,
+        "name": "Reporting data"
+    },
+    {
+        "_id": "570fb08fbadb53d0057849ad",
+        "active": true,
+        "name": "Researching"
+    },
+    {
+        "_id": "570fb08fbadb53d0057849ae",
+        "active": true,
+        "name": "Resolving conflicts"
+    },
+    {
+        "_id": "570fb08fbadb53d0057849af",
+        "active": true,
+        "name": "Resourcefulness"
+    },
+    {
+        "_id": "570fb08fbadb53d0057849b0",
+        "active": true,
+        "name": "Responsibility"
+    },
+    {
+        "_id": "570fb08fbadb53d0057849b1",
+        "active": true,
+        "name": "Results orientated"
+    },
+    {
+        "_id": "570fb08fbadb53d0057849b2",
+        "active": true,
+        "name": "Risk taking"
+    },
+    {
+        "_id": "570fb08fbadb53d0057849b3",
+        "active": true,
+        "name": "Running meetings"
+    },
+    {
+        "_id": "570fb08fbadb53d0057849b4",
+        "active": true,
+        "name": "Sales ability"
+    },
+    {
+        "_id": "570fb08fbadb53d0057849b5",
+        "active": true,
+        "name": "Screening telephone calls"
+    },
+    {
+        "_id": "570fb08fbadb53d0057849b6",
+        "active": true,
+        "name": "Self-motivated"
+    },
+    {
+        "_id": "570fb08fbadb53d0057849b7",
+        "active": true,
+        "name": "Selling ideas"
+    },
+    {
+        "_id": "570fb08fbadb53d0057849b8",
+        "active": true,
+        "name": "Selling products or services"
+    },
+    {
+        "_id": "570fb08fbadb53d0057849b9",
+        "active": true,
+        "name": "Serving people"
+    },
+    {
+        "_id": "570fb08fbadb53d0057849ba",
+        "active": true,
+        "name": "Setting performance standards"
+    },
+    {
+        "_id": "570fb08fbadb53d0057849bb",
+        "active": true,
+        "name": "Setting up demonstrations"
+    },
+    {
+        "_id": "570fb08fbadb53d0057849bc",
+        "active": true,
+        "name": "Sketching charts or diagrams"
+    },
+    {
+        "_id": "570fb08fbadb53d0057849bd",
+        "active": true,
+        "name": "Strategic thinking"
+    },
+    {
+        "_id": "570fb08fbadb53d0057849be",
+        "active": true,
+        "name": "Suggestingcourses of action"
+    },
+    {
+        "_id": "570fb08fbadb53d0057849bf",
+        "active": true,
+        "name": "Summarizing data"
+    },
+    {
+        "_id": "570fb08fbadb53d0057849c0",
+        "active": true,
+        "name": "Supervising employees"
+    },
+    {
+        "_id": "570fb08fbadb53d0057849c1",
+        "active": true,
+        "name": "Supervising operations"
+    },
+    {
+        "_id": "570fb08fbadb53d0057849c2",
+        "active": true,
+        "name": "Supporting others"
+    },
+    {
+        "_id": "570fb08fbadb53d0057849c3",
+        "active": true,
+        "name": "Taking decisive action"
+    },
+    {
+        "_id": "570fb08fbadb53d0057849c4",
+        "active": true,
+        "name": "Taking inititiave"
+    },
+    {
+        "_id": "570fb08fbadb53d0057849c5",
+        "active": true,
+        "name": "Taking personal responsibility"
+    },
+    {
+        "_id": "570fb08fbadb53d0057849c6",
+        "active": true,
+        "name": "Teaching skills"
+    },
+    {
+        "_id": "570fb08fbadb53d0057849c7",
+        "active": true,
+        "name": "Team building"
+    },
+    {
+        "_id": "570fb08fbadb53d0057849c8",
+        "active": true,
+        "name": "Teamwork skills"
+    },
+    {
+        "_id": "570fb08fbadb53d0057849c9",
+        "active": true,
+        "name": "Technical work"
+    },
+    {
+        "_id": "570fb08fbadb53d0057849ca",
+        "active": true,
+        "name": "Thinking logically"
+    },
+    {
+        "_id": "570fb08fbadb53d0057849cb",
+        "active": true,
+        "name": "Time management skills"
+    },
+    {
+        "_id": "570fb08fbadb53d0057849cc",
+        "active": true,
+        "name": "Training skills"
+    },
+    {
+        "_id": "570fb08fbadb53d0057849cd",
+        "active": true,
+        "name": "Translating words"
+    },
+    {
+        "_id": "570fb08fbadb53d0057849ce",
+        "active": true,
+        "name": "Using computers"
+    },
+    {
+        "_id": "570fb08fbadb53d0057849cf",
+        "active": true,
+        "name": "Verbal communication skills"
+    },
+    {
+        "_id": "570fb08fbadb53d0057849d0",
+        "active": true,
+        "name": "Working creatively"
+    },
+    {
+        "_id": "570fb08fbadb53d0057849d1",
+        "active": true,
+        "name": "Working with statistics"
+    },
+    {
+        "_id": "570fb08fbadb53d0057849d2",
+        "active": true,
+        "name": "Writing clearly and concisely"
+    },
+    {
+        "_id": "570fb08fbadb53d0057849d3",
+        "active": true, 
+        "name": "Writing letters, papers, or proposals"
+    }
+]

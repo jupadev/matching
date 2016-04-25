@@ -1,0 +1,31 @@
+.col-xs-12.col-sm-6
+	.panel.panel-primary
+		.panel-heading
+			h3 Students
+		.panel-body
+			table.table
+				theader
+					tr
+						th Student name
+						th skills
+				tbody
+					for user in users
+						tr
+							td #{user.name}
+							td 
+								if user.items.length
+									ul
+										each skill in user.items
+											li #{skill.name}
+								else
+									span.glyphicon.glyphicon-warning-sign  None
+			hr
+			form(action='/users' method='post').row
+				.form-group.col-sm-12
+					input.form-control(name='user' placeholder='add new user' required)
+				.form-group.col-sm-12
+					select.form-control.js-skillsets(name='skillsets' multiple='true')
+						for skill in skillsets
+							option(value='{\"_id\": \"#{skill._id}\", \"name\": \"#{skill.name}\" }') #{skill.name}
+				.col-sm-12
+					button.btn.btn-primary.pull-right Add user

@@ -1,0 +1,26 @@
+.col-xs-12
+	.panel.panel-primary
+		.panel-heading
+			h3 Matching
+		.panel-body
+			.row
+				.col-xs-12
+					a(href='/generate').btn.btn-primary.pull-right 
+						span.glyphicon.glyphicon-play
+						span Build
+
+			.row(style='margin-top: 20px')
+			for suggestion in suggestions
+				.col-sm-6
+					.panel.panel-default
+						.panel-heading 
+							strong #{suggestion.user}
+						.panel-body
+							for matching in suggestion.suggestions
+								.row
+									.col-xs-4 #{matching.job.name}
+									.col-xs-8 #{matching.similarity * 100}
+										.progress
+											.progress-bar.progress-bar-info(style='width: #{matching.similarity * 100}%')
+										
+
